@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.opennms.integration.api:common:0.8.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opennms/integration/api/common/0.8.0-SNAPSHOT/common-0.8.0-20220228.184012-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opennms/integration/api/common/0.8.0-SNAPSHOT/common-0.8.0-20220228.184012-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/opennms/integration/api/common/0.8.0-SNAPSHOT/common-0.8.0-20220228.184012-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -35,7 +35,7 @@ import org.apache.karaf.shell.api.action.Action;
 import org.apache.karaf.shell.api.action.Command;
 import org.apache.karaf.shell.api.action.lifecycle.Reference;
 import org.apache.karaf.shell.api.action.lifecycle.Service;
-import org.opennms.timeseries.impl.memory.InMemoryStorage;
+import org.opennms.timeseries.impl.memory.ToFileStorage;
 
 import com.codahale.metrics.ConsoleReporter;
 
@@ -44,7 +44,7 @@ import com.codahale.metrics.ConsoleReporter;
 public class Stats implements Action {
 
     @Reference
-    private InMemoryStorage tss;
+    private ToFileStorage tss;
 
     @Override
     public Object execute() {

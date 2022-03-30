@@ -54,14 +54,14 @@ import com.codahale.metrics.MetricRegistry;
  * Simulates a time series storage in memory (Guava cache). The implementation is super simple and not very efficient.
  * For testing and evaluating purposes only, not for production.
  */
-public class InMemoryStorage implements TimeSeriesStorage {
+public class ToFileStorage implements TimeSeriesStorage {
 
     private final ConcurrentMap<Metric, Collection<Sample>> data;
 
     private final MetricRegistry metrics = new MetricRegistry();
     private final Meter samplesWritten = metrics.meter("samplesWritten");
 
-    public InMemoryStorage () {
+    public ToFileStorage() {
         data = new ConcurrentHashMap<>();
     }
 
