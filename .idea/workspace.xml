@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4bdc2c5-1fa2-418b-893a-d709c6deb6d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/opennms/timeseries/impl/memory/InMemoryStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opennms/timeseries/impl/memory/ToFileStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/opennms/timeseries/impl/memory/shell/Stats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opennms/timeseries/impl/memory/shell/Stats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/opennms/timeseries/impl/memory/ToFileStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/opennms/timeseries/impl/memory/ToFileStorage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/OSGI-INF/blueprint/blueprint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/OSGI-INF/blueprint/blueprint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/opennms/timeseries/impl/memory/InMemoryStorageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/opennms/timeseries/impl/memory/ToFileStorageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../opennms" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
